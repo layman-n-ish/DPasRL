@@ -1,2 +1,2 @@
 # DPasRL
-Traditional Dynamic Programming problems formulated and solved as a Reinforcement Learning problems.  
+Traditional Dynamic Programming problems formulated and solved as Reinforcement Learning problems.  
